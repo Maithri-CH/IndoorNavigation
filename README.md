@@ -6,7 +6,7 @@
 
 http://csweb01.csueastbay.edu/~su5654/CVProject1/
 
-• Group Members: Richa Khagwal, Subhangi Asati, Maithri Chulikana
+• Group Members: Richa Khagwal, Subhangi Asati, Maithri Chullikana House
 
 Google drive link: https://drive.google.com/drive/folders/1pBZbaxnbSvseVVEDrsT8uze0C3-ctWCA?usp=sharing
 
@@ -29,18 +29,18 @@ Google drive link: https://drive.google.com/drive/folders/1pBZbaxnbSvseVVEDrsT8u
 
 - Extracting Features using Inception v3-
 
-![alt text](https://github.com/Maithri-CH/Indoor-Navigation/blob/master/images/step24.PNG)
+![alt text](https://github.com/Maithri-CH/IndoorNavigation/blob/master/images/step24.PNG)
 
 ## Step 3: Batch Prediction-
 
 Created Inception v3 Feature Extraction Model, and generated .npy file from video files-
 
-![alt text](https://github.com/Maithri-CH/IndoorNavigation/blob/master/images/step32--.PNG)
+![alt text](https://github.com/Maithri-CH/IndoorNavigation/blob/master/images/step32.PNG)
 
 
-![alt text](https://github.com/Maithri-CH/IndoorNavigation/blob/master/images/step34--.PNG)
+![alt text](https://github.com/Maithri-CH/IndoorNavigation/blob/master/images/step34.PNG)
 
-![alt text](https://github.com/Maithri-CH/IndoorNavigation/blob/master/images/step35--.PNG)
+![alt text](https://github.com/Maithri-CH/IndoorNavigation/blob/master/images/step35.PNG)
 
 ## Step 4: Live Predictions-
 
